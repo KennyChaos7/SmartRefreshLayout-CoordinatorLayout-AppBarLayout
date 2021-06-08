@@ -1,16 +1,23 @@
 #	融合 CollapsingToolbarLayout +SmartRefreshLayout 的效果
 
 当然，按照国际惯例，先上个效果图
+> device-2021-06-08-104734.png
+> device-2021-06-08-104753.png
+> device-2021-06-08-104824.png
+> device-2021-06-08-104941.png
 
-![](.\device-2021-06-08-104734.png)
 
-![](.\device-2021-06-08-104753.png)
+![](https://upload-images.jianshu.io/upload_images/3012678-bdc245bb489b8981.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![](.\device-2021-06-08-104824.png)
+![](https://upload-images.jianshu.io/upload_images/3012678-2558fdf912f4af65.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
- ![](.\device-2021-06-08-104941.png)
+![](https://upload-images.jianshu.io/upload_images/3012678-7ec9da6f42b1f55c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+ ![](https://upload-images.jianshu.io/upload_images/3012678-e26eee111a3599d4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ​	
+
+
 
 - **CoordinatorLayout** **AppBarLayout** **CollapsingToolbarLayout** **Toolbar** 
 
